@@ -69,8 +69,8 @@ EN:
 
 Clone this repository:
 
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/gukakhachidze/WeatherApp
+cd WeatherApp
 
 Open index.html in your browser.
 
@@ -80,8 +80,8 @@ KA (ქართული):
 
 გადააკოპირე რეპოზიტორია:
 
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/gukakhachidze/WeatherApp
+cd WeatherApp
 
 გახსენი index.html ბრაუზერში.
 
